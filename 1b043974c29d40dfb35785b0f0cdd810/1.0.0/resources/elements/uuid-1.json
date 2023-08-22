@@ -1,0 +1,219 @@
+[
+  {
+    "name": "tab",
+    "optionProps": [
+      {
+        "name": "url",
+        "pattern": "Equal",
+        "value": "http://101.132.35.226:7710/micro/studio/8876cb9256f540c7aaf7aed073d0c688"
+      }
+    ],
+    "props": [{ "name": "title", "pattern": "Equal", "value": "ccc-应用" }],
+    "type": "wnd"
+  },
+  {
+    "name": "div",
+    "optionProps": [
+      { "name": "id", "pattern": "Equal", "value": "__qiankun_microapp_wrapper_for_nature_studio__" },
+      {
+        "name": "outertext",
+        "pattern": "Equal",
+        "value": "ccc\n试运行元素/图像捕捉智能录制上一步下一步\n测试Schema To UI\n复制schema\n查看代码\n发布\n指令\n所有类别\n软件应用\n桌面操作\n流程控制\n数据操作\n系统操作\n网络\n个人收藏\n网页自动化\n软件窗口自动化\n循环和判断\n应用或流程处理\nPOP3/IMAP接收邮件\nSMTP发送邮件\nChatGPT试用版\nChatGPT个人版\n生活服务\nHTTP\nExcel\nExcel极速操作\n企业微信\n钉钉\n飞书机器人\n飞书\n微信公众号\n抖音\n小红书\nPDF文件\nMySQL数据库\nSQL Server数据库\nRocket MQ消息队列\nSalesforce\nSAP\n金山文档（数据表）\n腾讯文档\nOSS服务\n滴答清单\n维格表\n小鹅通\n快递管家\n诸葛io\n百度营销\n字符串操作\n列表操作\n字典操作\n数学运算\n系统\n文件操作\n友盟+\n轻速云\n彩云天气\nTeambition\n明伟数据\n百度网盘\n高德地图\n探马CRM\n翻译狗\n曹操出行\n韵达速递\n顺丰\n货拉拉企业版\nUU跑腿\n百度翻译\n百度地图\n腾讯翻译\n腾讯问卷\nWeLink\n领星ERP\nUCloud\n极狐\n中通快递\n腾讯地图\n心知天气\n天眼数聚\n小码短链接\n百家云\n魔点钉钉\n快递鸟\n伙伴云\n韩小韩\n明道云应用\n德邦速递\n天行数据\n极兔速递\n站长之家\ntrack123\n流程1\n应用触发\n1\n手动触发应用\n流程开始\n2\n打开新网页\n在\nGoogle Chrome\n浏览器中访问网址\nasdasd\n单击添加指令，或从左侧指令栏拖入\n运行日志\n应用参数\n助手\n属性\n变量\n元素库\n图像库\n历史\n元素库\n捕捉元素"
+      },
+      { "name": "nth-child", "pattern": "Equal", "value": "" }
+    ],
+    "props": [
+      { "name": "id", "pattern": "Equal", "value": "__qiankun_microapp_wrapper_for_nature_studio__" }
+    ],
+    "type": "chrome"
+  },
+  {
+    "name": "div",
+    "optionProps": [
+      { "name": "id", "pattern": "Equal", "value": "root" },
+      { "name": "class", "pattern": "Equal", "value": "root" },
+      {
+        "name": "outertext",
+        "pattern": "Equal",
+        "value": "ccc\n试运行元素/图像捕捉智能录制上一步下一步\n测试Schema To UI\n复制schema\n查看代码\n发布\n指令\n所有类别\n软件应用\n桌面操作\n流程控制\n数据操作\n系统操作\n网络\n个人收藏\n网页自动化\n软件窗口自动化\n循环和判断\n应用或流程处理\nPOP3/IMAP接收邮件\nSMTP发送邮件\nChatGPT试用版\nChatGPT个人版\n生活服务\nHTTP\nExcel\nExcel极速操作\n企业微信\n钉钉\n飞书机器人\n飞书\n微信公众号\n抖音\n小红书\nPDF文件\nMySQL数据库\nSQL Server数据库\nRocket MQ消息队列\nSalesforce\nSAP\n金山文档（数据表）\n腾讯文档\nOSS服务\n滴答清单\n维格表\n小鹅通\n快递管家\n诸葛io\n百度营销\n字符串操作\n列表操作\n字典操作\n数学运算\n系统\n文件操作\n友盟+\n轻速云\n彩云天气\nTeambition\n明伟数据\n百度网盘\n高德地图\n探马CRM\n翻译狗\n曹操出行\n韵达速递\n顺丰\n货拉拉企业版\nUU跑腿\n百度翻译\n百度地图\n腾讯翻译\n腾讯问卷\nWeLink\n领星ERP\nUCloud\n极狐\n中通快递\n腾讯地图\n心知天气\n天眼数聚\n小码短链接\n百家云\n魔点钉钉\n快递鸟\n伙伴云\n韩小韩\n明道云应用\n德邦速递\n天行数据\n极兔速递\n站长之家\ntrack123\n流程1\n应用触发\n1\n手动触发应用\n流程开始\n2\n打开新网页\n在\nGoogle Chrome\n浏览器中访问网址\nasdasd\n单击添加指令，或从左侧指令栏拖入\n运行日志\n应用参数\n助手\n属性\n变量\n元素库\n图像库\n历史\n元素库\n捕捉元素"
+      },
+      { "name": "nth-child", "pattern": "Equal", "value": "" }
+    ],
+    "props": [{ "name": "id", "pattern": "Equal", "value": "root" }],
+    "type": "chrome"
+  },
+  {
+    "name": "div",
+    "optionProps": [
+      { "name": "class", "pattern": "Equal", "value": "app studio" },
+      {
+        "name": "outertext",
+        "pattern": "Equal",
+        "value": "ccc\n试运行元素/图像捕捉智能录制上一步下一步\n测试Schema To UI\n复制schema\n查看代码\n发布\n指令\n所有类别\n软件应用\n桌面操作\n流程控制\n数据操作\n系统操作\n网络\n个人收藏\n网页自动化\n软件窗口自动化\n循环和判断\n应用或流程处理\nPOP3/IMAP接收邮件\nSMTP发送邮件\nChatGPT试用版\nChatGPT个人版\n生活服务\nHTTP\nExcel\nExcel极速操作\n企业微信\n钉钉\n飞书机器人\n飞书\n微信公众号\n抖音\n小红书\nPDF文件\nMySQL数据库\nSQL Server数据库\nRocket MQ消息队列\nSalesforce\nSAP\n金山文档（数据表）\n腾讯文档\nOSS服务\n滴答清单\n维格表\n小鹅通\n快递管家\n诸葛io\n百度营销\n字符串操作\n列表操作\n字典操作\n数学运算\n系统\n文件操作\n友盟+\n轻速云\n彩云天气\nTeambition\n明伟数据\n百度网盘\n高德地图\n探马CRM\n翻译狗\n曹操出行\n韵达速递\n顺丰\n货拉拉企业版\nUU跑腿\n百度翻译\n百度地图\n腾讯翻译\n腾讯问卷\nWeLink\n领星ERP\nUCloud\n极狐\n中通快递\n腾讯地图\n心知天气\n天眼数聚\n小码短链接\n百家云\n魔点钉钉\n快递鸟\n伙伴云\n韩小韩\n明道云应用\n德邦速递\n天行数据\n极兔速递\n站长之家\ntrack123\n流程1\n应用触发\n1\n手动触发应用\n流程开始\n2\n打开新网页\n在\nGoogle Chrome\n浏览器中访问网址\nasdasd\n单击添加指令，或从左侧指令栏拖入\n运行日志\n应用参数\n助手\n属性\n变量\n元素库\n图像库\n历史\n元素库\n捕捉元素"
+      },
+      { "name": "nth-child", "pattern": "Equal", "value": "" }
+    ],
+    "props": [],
+    "type": "chrome"
+  },
+  {
+    "name": "div",
+    "optionProps": [
+      {
+        "name": "outertext",
+        "pattern": "Equal",
+        "value": "ccc\n试运行元素/图像捕捉智能录制上一步下一步\n测试Schema To UI\n复制schema\n查看代码\n发布\n指令\n所有类别\n软件应用\n桌面操作\n流程控制\n数据操作\n系统操作\n网络\n个人收藏\n网页自动化\n软件窗口自动化\n循环和判断\n应用或流程处理\nPOP3/IMAP接收邮件\nSMTP发送邮件\nChatGPT试用版\nChatGPT个人版\n生活服务\nHTTP\nExcel\nExcel极速操作\n企业微信\n钉钉\n飞书机器人\n飞书\n微信公众号\n抖音\n小红书\nPDF文件\nMySQL数据库\nSQL Server数据库\nRocket MQ消息队列\nSalesforce\nSAP\n金山文档（数据表）\n腾讯文档\nOSS服务\n滴答清单\n维格表\n小鹅通\n快递管家\n诸葛io\n百度营销\n字符串操作\n列表操作\n字典操作\n数学运算\n系统\n文件操作\n友盟+\n轻速云\n彩云天气\nTeambition\n明伟数据\n百度网盘\n高德地图\n探马CRM\n翻译狗\n曹操出行\n韵达速递\n顺丰\n货拉拉企业版\nUU跑腿\n百度翻译\n百度地图\n腾讯翻译\n腾讯问卷\nWeLink\n领星ERP\nUCloud\n极狐\n中通快递\n腾讯地图\n心知天气\n天眼数聚\n小码短链接\n百家云\n魔点钉钉\n快递鸟\n伙伴云\n韩小韩\n明道云应用\n德邦速递\n天行数据\n极兔速递\n站长之家\ntrack123\n流程1\n应用触发\n1\n手动触发应用\n流程开始\n2\n打开新网页\n在\nGoogle Chrome\n浏览器中访问网址\nasdasd\n单击添加指令，或从左侧指令栏拖入\n运行日志\n应用参数\n助手\n属性\n变量\n元素库\n图像库\n历史\n元素库\n捕捉元素"
+      },
+      { "name": "nth-child", "pattern": "Equal", "value": "" }
+    ],
+    "props": [],
+    "type": "chrome"
+  },
+  {
+    "name": "div",
+    "optionProps": [
+      { "name": "class", "pattern": "Equal", "value": "index-module__nrMainPanelContainer___gvoPE" },
+      {
+        "name": "outertext",
+        "pattern": "Equal",
+        "value": "ccc\n试运行元素/图像捕捉智能录制上一步下一步\n测试Schema To UI\n复制schema\n查看代码\n发布\n指令\n所有类别\n软件应用\n桌面操作\n流程控制\n数据操作\n系统操作\n网络\n个人收藏\n网页自动化\n软件窗口自动化\n循环和判断\n应用或流程处理\nPOP3/IMAP接收邮件\nSMTP发送邮件\nChatGPT试用版\nChatGPT个人版\n生活服务\nHTTP\nExcel\nExcel极速操作\n企业微信\n钉钉\n飞书机器人\n飞书\n微信公众号\n抖音\n小红书\nPDF文件\nMySQL数据库\nSQL Server数据库\nRocket MQ消息队列\nSalesforce\nSAP\n金山文档（数据表）\n腾讯文档\nOSS服务\n滴答清单\n维格表\n小鹅通\n快递管家\n诸葛io\n百度营销\n字符串操作\n列表操作\n字典操作\n数学运算\n系统\n文件操作\n友盟+\n轻速云\n彩云天气\nTeambition\n明伟数据\n百度网盘\n高德地图\n探马CRM\n翻译狗\n曹操出行\n韵达速递\n顺丰\n货拉拉企业版\nUU跑腿\n百度翻译\n百度地图\n腾讯翻译\n腾讯问卷\nWeLink\n领星ERP\nUCloud\n极狐\n中通快递\n腾讯地图\n心知天气\n天眼数聚\n小码短链接\n百家云\n魔点钉钉\n快递鸟\n伙伴云\n韩小韩\n明道云应用\n德邦速递\n天行数据\n极兔速递\n站长之家\ntrack123\n流程1\n应用触发\n1\n手动触发应用\n流程开始\n2\n打开新网页\n在\nGoogle Chrome\n浏览器中访问网址\nasdasd\n单击添加指令，或从左侧指令栏拖入\n运行日志\n应用参数\n助手\n属性\n变量\n元素库\n图像库\n历史\n元素库\n捕捉元素"
+      },
+      { "name": "nth-child", "pattern": "Equal", "value": "" }
+    ],
+    "props": [],
+    "type": "chrome"
+  },
+  {
+    "name": "div",
+    "optionProps": [
+      { "name": "class", "pattern": "Equal", "value": "index-module__nrMainPanel___VqJKu" },
+      {
+        "name": "outertext",
+        "pattern": "Equal",
+        "value": "指令\n所有类别\n软件应用\n桌面操作\n流程控制\n数据操作\n系统操作\n网络\n个人收藏\n网页自动化\n软件窗口自动化\n循环和判断\n应用或流程处理\nPOP3/IMAP接收邮件\nSMTP发送邮件\nChatGPT试用版\nChatGPT个人版\n生活服务\nHTTP\nExcel\nExcel极速操作\n企业微信\n钉钉\n飞书机器人\n飞书\n微信公众号\n抖音\n小红书\nPDF文件\nMySQL数据库\nSQL Server数据库\nRocket MQ消息队列\nSalesforce\nSAP\n金山文档（数据表）\n腾讯文档\nOSS服务\n滴答清单\n维格表\n小鹅通\n快递管家\n诸葛io\n百度营销\n字符串操作\n列表操作\n字典操作\n数学运算\n系统\n文件操作\n友盟+\n轻速云\n彩云天气\nTeambition\n明伟数据\n百度网盘\n高德地图\n探马CRM\n翻译狗\n曹操出行\n韵达速递\n顺丰\n货拉拉企业版\nUU跑腿\n百度翻译\n百度地图\n腾讯翻译\n腾讯问卷\nWeLink\n领星ERP\nUCloud\n极狐\n中通快递\n腾讯地图\n心知天气\n天眼数聚\n小码短链接\n百家云\n魔点钉钉\n快递鸟\n伙伴云\n韩小韩\n明道云应用\n德邦速递\n天行数据\n极兔速递\n站长之家\ntrack123\n流程1\n应用触发\n1\n手动触发应用\n流程开始\n2\n打开新网页\n在\nGoogle Chrome\n浏览器中访问网址\nasdasd\n单击添加指令，或从左侧指令栏拖入\n运行日志\n应用参数\n助手\n属性\n变量\n元素库\n图像库\n历史\n元素库\n捕捉元素"
+      },
+      { "name": "nth-child", "pattern": "Equal", "value": "" }
+    ],
+    "props": [],
+    "type": "chrome"
+  },
+  {
+    "name": "div",
+    "optionProps": [
+      { "name": "class", "pattern": "Equal", "value": "index-module__nrWsPanel___B3GJ9" },
+      {
+        "name": "outertext",
+        "pattern": "Equal",
+        "value": "流程1\n应用触发\n1\n手动触发应用\n流程开始\n2\n打开新网页\n在\nGoogle Chrome\n浏览器中访问网址\nasdasd\n单击添加指令，或从左侧指令栏拖入\n运行日志\n应用参数"
+      },
+      { "name": "nth-child", "pattern": "Equal", "value": "" }
+    ],
+    "props": [],
+    "type": "chrome"
+  },
+  {
+    "name": "div",
+    "optionProps": [
+      { "name": "class", "pattern": "Equal", "value": "index-module__tabpanes___2MD5d" },
+      {
+        "name": "outertext",
+        "pattern": "Equal",
+        "value": "应用触发\n1\n手动触发应用\n流程开始\n2\n打开新网页\n在\nGoogle Chrome\n浏览器中访问网址\nasdasd\n单击添加指令，或从左侧指令栏拖入"
+      },
+      { "name": "nth-child", "pattern": "Equal", "value": "" }
+    ],
+    "props": [],
+    "type": "chrome"
+  },
+  {
+    "name": "div",
+    "optionProps": [
+      { "name": "class", "pattern": "Equal", "value": "index-module__nrViewPort___xrQgH" },
+      {
+        "name": "outertext",
+        "pattern": "Equal",
+        "value": "应用触发\n1\n手动触发应用\n流程开始\n2\n打开新网页\n在\nGoogle Chrome\n浏览器中访问网址\nasdasd\n单击添加指令，或从左侧指令栏拖入"
+      },
+      { "name": "nth-child", "pattern": "Equal", "value": "" }
+    ],
+    "props": [],
+    "type": "chrome"
+  },
+  {
+    "name": "div",
+    "optionProps": [
+      { "name": "class", "pattern": "Equal", "value": "index-module__nrTaskTree___BDFuC" },
+      {
+        "name": "outertext",
+        "pattern": "Equal",
+        "value": "应用触发\n1\n手动触发应用\n流程开始\n2\n打开新网页\n在\nGoogle Chrome\n浏览器中访问网址\nasdasd\n单击添加指令，或从左侧指令栏拖入"
+      },
+      { "name": "nth-child", "pattern": "Equal", "value": "" }
+    ],
+    "props": [],
+    "type": "chrome"
+  },
+  {
+    "name": "div",
+    "optionProps": [
+      {
+        "name": "class",
+        "pattern": "Equal",
+        "value": "nature-ui-row nature-ui-row-align-start nature-ui-row-justify-start index-module__nrTaskItem___IkdQs"
+      },
+      { "name": "outertext", "pattern": "Equal", "value": "1\n手动触发应用" },
+      { "name": "nth-child", "pattern": "Equal", "value": "" }
+    ],
+    "props": [],
+    "type": "chrome"
+  },
+  {
+    "name": "div",
+    "optionProps": [
+      { "name": "class", "pattern": "Equal", "value": "nature-ui-col nature-ui-col-20" },
+      { "name": "outertext", "pattern": "Equal", "value": "手动触发应用" },
+      { "name": "nth-child", "pattern": "Equal", "value": "" }
+    ],
+    "props": [],
+    "type": "chrome"
+  },
+  {
+    "name": "div",
+    "optionProps": [
+      { "name": "class", "pattern": "Equal", "value": "index-module__nrTaskItemContent___biNJq" },
+      { "name": "outertext", "pattern": "Equal", "value": "手动触发应用" },
+      { "name": "nth-child", "pattern": "Equal", "value": "" }
+    ],
+    "props": [],
+    "type": "chrome"
+  },
+  {
+    "name": "div",
+    "optionProps": [
+      { "name": "class", "pattern": "Equal", "value": "index-module__nrTaskItemContentTop___r4U5T" },
+      { "name": "outertext", "pattern": "Equal", "value": "手动触发应用" },
+      { "name": "nth-child", "pattern": "Equal", "value": "" }
+    ],
+    "props": [],
+    "type": "chrome"
+  },
+  {
+    "name": "div",
+    "optionProps": [
+      { "name": "outertext", "pattern": "Equal", "value": "手动触发应用" },
+      { "name": "nth-child", "pattern": "Equal", "value": "" }
+    ],
+    "props": [],
+    "type": "chrome"
+  },
+  {
+    "name": "span",
+    "optionProps": [
+      { "name": "class", "pattern": "Equal", "value": "title" },
+      { "name": "outertext", "pattern": "Equal", "value": "手动触发应用" },
+      { "name": "nth-child", "pattern": "Equal", "value": "" }
+    ],
+    "props": [{ "name": "outertext", "pattern": "Equal", "value": "手动触发应用" }],
+    "type": "chrome"
+  }
+]

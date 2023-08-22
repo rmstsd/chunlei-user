@@ -1,0 +1,99 @@
+{
+  "uuid": "1b043974c29d40dfb35785b0f0cdd810",
+  "appName": "已发布的应用",
+  "projectVersion": "1.0.0002",
+  "clientVersion": "1.0.0",
+  "flowList": [
+    {
+      "procedureName": "流程1",
+      "procedureType": "MAIN-FLOW",
+      "importProcedure": "",
+      "variableCodeList": null,
+      "flowCodeUuid": "uuid-a"
+    },
+    {
+      "procedureName": "流程2",
+      "procedureType": "SUB-FLOW",
+      "importProcedure": "",
+      "variableCodeList": null,
+      "flowCodeUuid": "uuid-b"
+    },
+    {
+      "procedureName": "流程3",
+      "procedureType": "SUB-CODE",
+      "importProcedure": "",
+      "variableCodeList": null,
+      "flowCodeUuid": "uuid-c"
+    }
+  ],
+  "elementList": [
+    {
+      "id": 4108,
+      "groupName": "Visual Studio Code",
+      "groupIcon": "b6ee3c85-f9d4-4df7-94bb-44a6d1cabfce.png",
+      "elementList": [
+        {
+          "groupId": 4108,
+          "originalId": null,
+          "groupName": "Visual Studio Code",
+          "elementName": "文档分区块2",
+          "elementImage": "70feb9fe-0c8e-4536-b8cd-e3c6b82620ec.png",
+          "elementIndex": 1,
+          "elementType": "WinUI",
+          "elementCode": "d9b34a88-8f33-44aa-831b-e28c12a235ed",
+          "elementSort": 2,
+          "isSimilar": 0,
+          "isImage": 0,
+          "elementPathUrl": "uuid-1"
+        }
+      ]
+    },
+    {
+      "id": 4106,
+      "groupName": "Google Chrome",
+      "groupIcon": "c51614e8-e5d7-4da1-a0d0-85514490f723.png",
+      "elementList": [
+        {
+          "groupId": 4106,
+          "originalId": null,
+          "groupName": "Google Chrome",
+          "elementName": "行内元素_手动触发应用1",
+          "elementImage": "34536993-9d63-495c-b09a-243b7b72b9b9.png",
+          "elementIndex": 1,
+          "elementType": "Chrome",
+          "elementCode": "e5b27a57-2c34-4f9c-b06d-b4f7d45b2446",
+          "elementSort": 1,
+          "isSimilar": 0,
+          "isImage": 0,
+          "elementPathUrl": "uuid-2"
+        }
+      ]
+    }
+  ],
+  "variables": {
+    "system": [
+      {
+        "variableName": "web_obj_1",
+        "variableAlias": "网页",
+        "variableValue": "",
+        "variableType": "WebPage",
+        "variableSource": 1
+      }
+    ],
+    "custom": [
+      {
+        "variableName": "ezhyfa8ip9hf",
+        "variableAlias": "asdasd",
+        "variableValue": "111",
+        "variableType": "Number",
+        "variableSource": 2
+      }
+    ]
+  },
+  "paramsValue": [
+    {
+      "paramsType": 1,
+      "paramsValue": "{\"params\":[{\"name\":\"参数1\",\"type\":\"text\",\"default\":\"asd\",\"description\":\"asdas\",\"required\":false,\"options\":[]}]}"
+    }
+  ]
+}
