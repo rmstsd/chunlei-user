@@ -28,13 +28,10 @@
   ],
   "elementList": [
     {
-      "id": 4108,
       "groupName": "Visual Studio Code",
       "groupIcon": "b6ee3c85-f9d4-4df7-94bb-44a6d1cabfce.png",
       "elementList": [
         {
-          "groupId": 4108,
-          "originalId": null,
           "groupName": "Visual Studio Code",
           "elementName": "文档分区块2",
           "elementImage": "70feb9fe-0c8e-4536-b8cd-e3c6b82620ec.png",
@@ -49,13 +46,10 @@
       ]
     },
     {
-      "id": 4106,
       "groupName": "Google Chrome",
       "groupIcon": "c51614e8-e5d7-4da1-a0d0-85514490f723.png",
       "elementList": [
         {
-          "groupId": 4106,
-          "originalId": null,
           "groupName": "Google Chrome",
           "elementName": "行内元素_手动触发应用1",
           "elementImage": "34536993-9d63-495c-b09a-243b7b72b9b9.png",
