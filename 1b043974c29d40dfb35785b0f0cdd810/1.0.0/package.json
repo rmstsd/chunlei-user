@@ -8,21 +8,21 @@
       "procedureName": "流程1",
       "procedureType": "MAIN-FLOW",
       "importProcedure": "",
-      "variableCodeList": null,
+      "variableCodeList": [],
       "procedureCode": "uuid-a"
     },
     {
       "procedureName": "流程2",
       "procedureType": "SUB-FLOW",
       "importProcedure": "",
-      "variableCodeList": null,
+      "variableCodeList": [],
       "procedureCode": "uuid-b"
     },
     {
       "procedureName": "流程3",
       "procedureType": "SUB-CODE",
       "importProcedure": "",
-      "variableCodeList": null,
+      "variableCodeList": [],
       "procedureCode": "uuid-c"
     }
   ],
