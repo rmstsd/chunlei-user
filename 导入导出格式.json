@@ -1,0 +1,59 @@
+{
+  "appName": "已发布的应用",
+  "clientVersion": "1.0.0",
+  "flowList": [
+    {
+      "procedureName": "流程1",
+      "procedureType": "MAIN-FLOW",
+      "importProcedure": "",
+      "variableCodeList": null,
+      "treeNodes": "[很长的数据.............]"
+    }
+  ],
+  "elementList": [
+    {
+      "groupName": "Visual Studio Code",
+      "groupIcon": "data:image/png;base64,很长的数据..............",
+      "elementList": [
+        {
+          "groupName": "Visual Studio Code",
+          "elementName": "文档分区块2",
+          "elementImage": "data:image/png;base64,很长的数据..............",
+          "elementIndex": 1,
+          "elementType": "WinUI",
+          "elementCode": "d9b34a88-8f33-44aa-831b-e28c12a235ed",
+          "elementSort": 2,
+          "isSimilar": 0,
+          "isImage": 0,
+          "elementPath": "[很长的数据.............]"
+        }
+      ]
+    }
+  ],
+  "variables": {
+    "system": [
+      {
+        "variableName": "web_obj_1",
+        "variableAlias": "网页",
+        "variableValue": "",
+        "variableType": "WebPage",
+        "variableSource": 1
+      }
+    ],
+    "custom": [
+      {
+        "variableName": "ezhyfa8ip9hf",
+        "variableAlias": "asdasd",
+        "variableValue": "111",
+        "variableType": "Number",
+        "variableSource": 2
+      }
+    ]
+  },
+  "paramsValue": [
+    {
+      "paramsType": 1,
+      "paramsValue": "{\"params\":[{\"name\":\"参数1\",\"type\":\"text\",\"default\":\"asd\",\"description\":\"asdas\",\"required\":false,\"options\":[]}]}"
+    }
+  ]
+}
