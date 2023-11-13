@@ -1,13 +1,16 @@
 {
   "appName": "已发布的应用",
   "clientVersion": "1.0.0",
+  "capability": 2,
+  "startMode": 1,
   "flowList": [
     {
       "procedureName": "流程1",
       "procedureType": "MAIN-FLOW",
+      "procedureCode": "3708390085bb43d5864a30497a8a2566",
       "importProcedure": "",
       "variableCodeList": null,
-      "treeNodes": "[很长的数据.............]"
+      "treeNodes": []
     }
   ],
   "elementList": [
